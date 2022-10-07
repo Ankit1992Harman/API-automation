@@ -48,7 +48,7 @@ public class UserTestClass extends APITestBase {
   @BeforeClass
   public void initializeClass() throws NumberFormatException, Exception {
     LoggerUtil
-        .setlog(LogLevel.ONLYLOGS, "Initializing class variables for PETRA-Builder Services MIDL");
+        .setlog(LogLevel.ONLYLOGS, "Initializing class variables for Services");
     apihelper = new ApiHelper();
     petRequestResponse = new petRequest();
     createdUserMap = new HashMap<>();
