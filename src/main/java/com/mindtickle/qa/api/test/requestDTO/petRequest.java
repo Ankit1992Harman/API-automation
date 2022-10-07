@@ -1,4 +1,4 @@
-package com.mindtickle.qa.api.Test.requestDTO;
+package com.mindtickle.qa.api.test.requestDTO;
 
 import lombok.Data;
 

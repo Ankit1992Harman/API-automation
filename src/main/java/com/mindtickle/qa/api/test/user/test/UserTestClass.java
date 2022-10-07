@@ -1,8 +1,8 @@
-package com.mindtickle.qa.api.Test.user.test;
+package com.mindtickle.qa.api.test.user.test;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.mindtickle.qa.api.dto.RequestDTO;
-import com.mindtickle.qa.api.Test.requestDTO.petRequest;
+import com.mindtickle.qa.api.test.requestDTO.petRequest;
 import com.mindtickle.qa.apibase.APITestBase;
 import com.mindtickle.qa.apihelper.ApiHelper;
 import com.mindtickle.qa.listener.TestListener;
